@@ -1,5 +1,5 @@
 # imsize
-script for getting image size (in pixels)
+script for getting image size (in pixels) from command line
 
 useful for people running recent versions of OSX where for some reason the OS is VERY stingy with this information
 
